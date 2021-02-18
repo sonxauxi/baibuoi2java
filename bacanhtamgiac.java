@@ -12,7 +12,7 @@ public static void main(String[] args) {
     c = scanner.nextInt();
     if (a+b>c) {
         if(b+c>a){
-            if (c+a >b);
+            if (c+a >b){
             System.out.println("giá trị : "+a + "," + b +"," + c +" là 3 cạnh của tam giác");
         }
         
